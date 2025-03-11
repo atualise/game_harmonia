@@ -285,9 +285,8 @@ Este projeto é licenciado sob a licença [MIT](LICENSE).
 
 Para dúvidas, sugestões ou colaborações, entre em contato através de:
 
-- Email: [contato@harmonia-game.com](mailto:contato@harmonia-game.com)
-- Website: [www.harmonia-game.com](https://www.harmonia-game.com)
-- Discord: [Servidor Harmonia](https://discord.gg/harmonia)
+- Email: [contato@harmonia-game.com](mailto:contato@atualise.com)
+- Website: [www.harmonia-game.com](https://www.atualise.com)
 
 ---
 
