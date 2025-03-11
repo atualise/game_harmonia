@@ -1,0 +1,55 @@
+# Dependências
+node_modules/
+
+# Arquivos de build
+/build/
+/dist/
+/out/
+/.next/
+
+# Arquivos de cache
+.cache/
+.npm/
+.eslintcache
+
+# Logs e dumps
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Arquivos de configuração sensíveis
+config/secrets.json
+credentials.json
+
+# Arquivos temporários
+tmp/
+temp/
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# IDEs e editores
+.idea/
+.vscode/
+*.sublime-workspace
+.DS_Store
+
+# Arquivos específicos do jogo
+saves/
+userdata/
+*.sav
+*.save
+
+# Banco de dados
+*.sqlite
+*.db

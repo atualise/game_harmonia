@@ -1,0 +1,32 @@
+{
+  "name": "harmonia-game",
+  "version": "0.1.0",
+  "description": "Um mundo virtual 3D multiplayer em FPS",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "nodemon --ignore client/ --ignore node_modules/ server/index.js",
+    "client": "live-server client --port=8080",
+    "dev:all": "concurrently \"npm run dev\" \"npm run client\""
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2",
+    "uuid": "^9.0.1",
+    "redis": "^4.6.10",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "concurrently": "^8.2.2",
+    "live-server": "^1.2.2"
+  },
+  "nodemonConfig": {
+    "ignore": ["node_modules/*", "client/*"],
+    "execMap": {
+      "js": "node"
+    },
+    "ext": "js,json",
+    "legacyWatch": true
+  }
+}
