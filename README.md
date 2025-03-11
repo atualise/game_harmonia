@@ -1,7 +1,7 @@
 # HARMONIA
 ## Um Mundo Virtual de Conexões Sociais em 3D
 
-![Logo do Harmonia](assets/logo.png)
+![Logo do Harmonia](./assets/image1.jpg)
 
 > 🌐 **Harmonia** é um mundo virtual 3D em estilo voxel onde jogadores exploram um ambiente compartilhado e encontram outros com visões de mundo semelhantes. Os avatares refletem visualmente suas identidades culturais, políticas e pessoais através de um sistema de representação visual sutil e não-estereotipado.
 
